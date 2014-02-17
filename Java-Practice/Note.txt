@@ -1,0 +1,3 @@
+Compare string:
+== doesn't compare string content
+equals() and equalsIgnoreCase() compare the string
