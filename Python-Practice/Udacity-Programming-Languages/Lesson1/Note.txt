@@ -1,0 +1,11 @@
+Reguler Expression
+Maxmum Much
++ One or more
+| Or ([a-z]+|[0-9]+)
+epsilon empty string
+? optional, the previous thing 0 or 1 times
+* zero or more copies
+\ escape sequence
+. any character except newline
+^ inside [], this means not or set complement
+(?:) parantheses group things
